@@ -1,2 +1,68 @@
-avboy.tk
-avvboy.github.io
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="author" content="a_boy">
+  
+  <title>avvboy.tk</title>
+  <meta name="description" content="燃情岁月 曾经痴狂">
+  <link rel="stylesheet" href="css/style.css">
+  <script src="lib/marked.js"></script>
+  
+</head>
+
+<body>
+<div id="header"><a href="http://avvboy.tk" onclick="var _s=document.body.style;_s.color='#000';_s.backgroundColor='#fff';"><span style="color:#ff8c00;font-size: 24pt">avvboy.tk</span></a>
+<a href="http://github.com/avvboy/avvboy.github.io">github/avvboy</a> <span style="color:#ff8c00">燃情岁月 曾经痴狂</span></div>
+---><br>
+
+	<p><span style="color:#cccc00">--Pages--</span></p>
+	<div id="pageList">
+	+ <a href="pages/changing-color.html">changing-color.html</a> - 轮换背景颜色<br>
+	+ <a href="pages/combinate-search.html">combinate-search.html</a> - 组合搜<br>
+	+ <a href="http://github.com/avvboy/avvboy.github.io/pages/" target="_blank">...</a><br>
+	<br>
+	</div>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- automatic-size -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9506751992947371"
+     data-ad-slot="6237817689"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+	<p><span style="color:#cccc00">--Posts--</span></p>
+	<div id="postList">
+	+ <a href="posts/2017-02-07-四年前三月的湘江岸边.md">2017-02-07-四年前三月的湘江岸边.md</a><br>
+	+ <a href="http://github.com/avvboy/avvboy.github.io/posts/" target="_blank">...</a><br>
+	<br>
+	</div>
+	<input type="text" name="mdfilename" id="mdfilename" value="2017-02-07-四年前三月的湘江岸边.md" size=35><input type="button" value="预览" onclick="preview('posts/'+document.getElementById('mdfilename').value)">
+	<div id="preview"></div>
+<script>
+	function preview(url){
+		var req = new XMLHttpRequest();
+		req.open("GET", url, true);
+		//req.responseType="json";
+		req.onload = function(){
+			 document.getElementById('preview').innerHTML = marked(req.response)
+		}
+		req.send(null);
+	}
+	preview('posts/2017-02-07-四年前三月的湘江岸边.md');
+  </script>
+
+<div id="footer"><span style="color:#0f0">a_boy </span><span style="color:#ff8c00">@2017</span>
+<br>Domain <strong>avvboy.tk</strong> powered by <a href="http://my.dot.tk/cgi-bin/amb/landing.dottk?nr=668009::10718870::1" target="_new" style="text-decoration: none">
+<span style="color:#0d0;"><u>dot.tk</u></span></a> "tk=Teenagers Kingdom" 
+</div>
+
+</body>
+
+</html>
