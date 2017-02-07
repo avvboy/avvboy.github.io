@@ -63,7 +63,7 @@
 			var html='';
 			posts.forEach(function(e) {
 				console.log(e.name);
-				html+='+ <a href="#'+e.path+'">'+e.name+'</a><br> ';
+				html+='+ <a href="'+e.path+'">'+e.name+'</a><br> ';
 			});
 			document.getElementById('pageList').innerHTML = html;
 		}
@@ -80,7 +80,7 @@
 			var html='';
 			posts.forEach(function(e) {
 				console.log(e.name);
-				html+='+ <a onclick="preview(\''+e.path+'\')" href="#'+e.path+'">'+e.name+'</a><br> ';
+				html+='+ <a onclick="preview(\''+e.path+'\')" href="'+e.path+'">'+e.name+'</a><br> ';
 			});
 			document.getElementById('postList').innerHTML = html;
 		}
