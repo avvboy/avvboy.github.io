@@ -1,38 +1,11 @@
-Tiny Code 1-Chunqing Tribe
+Tiny Code 1
 ====
-小代码 1-纯情部落
+小代码 1
 ====
 http://2293.tk/tinycode
 https://github.com/2293/tinycode
 
 [toc]
-
-人物风云
-----
-
-
-Linus Torvalds, 1969, the founder of Linux    https://twitter.com/linus__torvalds
-
-Brendan Eich, 1961, the creator of JavaScript    https://brendaneich.com/
-
-Guido van Rossum, 1956, known for creating the Python programming language
-
-James Gosling, 1955, Java    http://nighthacks.com/
-
-Stephen Wolfram, 1959, the creator of Mathematica    http://www.stephenwolfram.com/
-
-
-90后十佳少女作家
-- ![](./1-img/原筱菲.jpg)原筱菲
-- ![](./1-img/高璨.jpg)高璨
-- ![](./1-img/张佳羽.jpg)张佳羽
-- <img src="1-img/韩雨.jpg" width="200">韩雨
-- ![](./1-img/张牧笛.jpg)张牧笛
-- ![](./1-img/苏笑嫣.jpg)苏笑嫣
-- <img src="1-img/另维.jpg" width="200">另维
-- <img src="1-img/张悉妮.jpg" width="200">张悉妮
-- ![](./1-img/慈琪.jpg)慈琪
-- ![](./1-img/孟祥宁.jpg)孟祥宁
 
 
 神奇命令行&冷酷网址
@@ -474,27 +447,6 @@ On January 7th at 22:30 UTC 2016, the Great Internet Mersenne Prime Search (GIMP
 	一双幽幽的眼睛， 
 	与我们寂寞相依。
 	
-### 狂臆
-	@柬不桂
-
-	黑暗犹如尘土掩埋了我的小屋
-	它们不是紧贴屋顶而是潜下去
-	仿佛冥河正筛流下来
-	我披上风，扔掉了灵魂
-	撞开有关繁衍的一切
-	在巨大的行星群里喘息
-	每天都有一些球果
-	和富足的伐木者的女儿嬉戏
-	大雪纷飞，热情洋溢
-	从我羞涩的指间望去
-	世上许多事物大都如此
-	我张着嘴，露出鲜红的鳃
-	挂在无形的钓丝上，无所依偎
-	粗壮的星光烧焦了我身上垂下的青苔
-	它们像曲折的黑藤在宇宙中盘结
-	这使我更加担心
-	我的一条动脉分割了
-	温度和恐怖的鼠之舞
 
 ### 天真5形诗 - 四月的飞鸟
 	@阿蒙 2014.04.19
